@@ -1,0 +1,18 @@
+body {
+	background-color: lightblue;
+}
+
+ul {
+	list-style: none;
+}
+
+li {
+	float: left;
+	margin: 20px;
+	max-width: 200px;
+	height: 200px;
+}
+
+#pages {
+	clear: both;
+}
